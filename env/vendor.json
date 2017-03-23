@@ -1,0 +1,4 @@
+[
+  "bower_components/jquery-ui/ui/*.js",
+  "bower_components/jqueryui-touch-punch/jquery.ui.touch-punch.min.js"
+]
